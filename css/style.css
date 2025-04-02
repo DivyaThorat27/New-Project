@@ -13443,3 +13443,46 @@ textarea.form-control {
 .register-color{
   color: #007bff;
 }
+
+/* Account */
+
+#account-form{
+  width:50%;
+  margin:35px auto;
+  text-align: center;
+  padding: 20px;
+}
+
+#account-form input{
+  margin: 5px auto;
+ 
+}
+
+#account-form #change-pass-btn{
+  background: #c49b63;
+  color: #fff;
+  
+}
+#account-info #orders-btn,#logout-btn{
+  
+  color: #fff;
+  text-decoration: none;
+}
+  
+.account-info-box{
+  background-color: #c49b63;
+  width: 80%;
+  margin: 50px;
+  height:90%;
+  padding: 50% auto;
+  color: black;
+  border-radius:1%;
+}
+.contact-info-div{
+  background-color: #c49b63;
+  width: 200%;
+  margin: 50% auto
+}
+.change-pass-btn{
+  border: 0.5px solid black;
+}
